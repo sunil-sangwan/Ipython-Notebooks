@@ -1,2 +1,3 @@
-# My_Ipython-Notebook
-Ipython Notebooks created by shark_S
+# Ipython-Notebooks
+Ipython Notebooks created by shark_s for learning purpose
+
